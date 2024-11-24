@@ -1,5 +1,5 @@
 # TELE
-SAR
+
 # Informe 4: Imágenes SAR para Inundaciones e Incendios
 ## Yerbin Marin C04513
 ### Curso: Teledetección y Fotogrametría
